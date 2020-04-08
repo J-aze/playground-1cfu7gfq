@@ -2,3 +2,8 @@ title: Simple Node.js Template
 plan:
 - title: Node.js Snippet
   statement: statement.md
+
+projects:
+  js:
+    root: "/js_files"
+    runner: techio/node-npm-runner
